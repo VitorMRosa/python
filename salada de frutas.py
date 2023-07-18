@@ -1,0 +1,1 @@
+saladaDeFrutas = ["banana" , "laranja" , "maçã"]
